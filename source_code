@@ -1,0 +1,302 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	Delhi Public School - OPAC
+</title><link href="opac.css" type="text/css" rel="stylesheet" />
+<style type="text/css">
+	.ctl00_Menu1_0 { background-color:white;visibility:hidden;display:none;position:absolute;left:0px;top:0px; }
+	.ctl00_Menu1_1 { text-decoration:none; }
+	.ctl00_Menu1_2 { background-color:#2F4B93;height:20px; }
+	.ctl00_Menu1_3 { border-style:none; }
+	.ctl00_Menu1_4 { padding:1px 1px 1px 1px; }
+	.ctl00_Menu1_5 { border-style:none; }
+	.ctl00_Menu1_6 {  }
+	.ctl00_Menu1_7 { border-style:none; }
+	.ctl00_Menu1_8 {  }
+
+</style></head>
+<body style="margin: 0; padding: 1; background-color: #339966;" bgcolor="#339966" >
+    <form name="aspnetForm" method="post" action="myreserves.aspx" id="aspnetForm">
+<div>
+<input type="hidden" name="ctl00_BodyContent_ToolkitScriptManager1_HiddenField" id="ctl00_BodyContent_ToolkitScriptManager1_HiddenField" value="" />
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="vBon2Otu0yDpSV2ulQ2G6LPjH5LSSG5EPi6+p08vLTo/GbgqfoeHl7Ym9rkdm8WJ/s+46YQVG6tv1TpyApGJvXRTlWgRN31PDJXMCWiv73WNTq5vwr4gyGI4t7T++7mtSV6ORGU8qLP6Lmnu2B9w6drOfBKsVi5RX4GpuV0yX+LZ0hQYfIwob31tdvf5ZSayWi3127i7RY/cj3x9LBkcvTIhHjkoJWYjtvrmlu7C16+FrgqiWF1ATeoIbuCFZdesM+Kw77zjWiwCzNzPLpdO+wyedGoyBlIy5VXE9Yhh1+79rBwFUXrssiLwZ8fvFl9LQbWpFVCAkQNJGj95IzRyeoX7IycF+rlw5I0ZpKJZ1I4lczcmv/bBj9Kv3oUQpkZrQLmLI9G28v2auNNgoyvEeiAaQLbOY3DKRLOJF1UrBuCMERuS" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/OPAC/WebResource.axd?d=ACYlxIDOVGDhGTIAywWXobeBQnEpoxs7A7xj8kYFUPpU3JvL0RQbRfvMlROVjtyzJRpYT5HzxMvgVzS4DgfyrQUva4k1&amp;t=635199218332401351" type="text/javascript"></script>
+
+
+<script src="/OPAC/ScriptResource.axd?d=HFp-uRVl00meVpc3oE8qLdPfsFoYy3IV5D_R3BqmW8e0sxGOi_3N3HOxEGNHiroaNJAwm48Qpy8gyYhn2iUvBBf45c76ewvtjlwIxq-_ywZXn9ClxfekyJkAYEuL2Sqnn3eRoA2&amp;t=ffffffffe6d24adb" type="text/javascript"></script>
+<script src="/OPAC/ScriptResource.axd?d=XeePp8VP9zu1EbpuWVXez2yaOYJ_zG9s9LoW-j3HgtXzdPGP5WYCThJ5Pb_uPjKex9jvlhMwEcPuoJCsrqdv-e6bQsJXq5mj1OsAeVCPK3znNV2TfhW0I_hPswcQ3uWoHGzodQ2&amp;t=ffffffffec54f2d7" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="/OPAC/ScriptResource.axd?d=3T_Qe_nT6kx1RfdPWrh00u4iE979V_YYwqngYGmWa_KC_Z5vg9HdWWzK5dy1KXoNK7zTQl24QhG5UR46CoYSQDN0gnYT2PmNWKU8HrxjoejxlH4DX-wnfoz-iMH5XF8sEv9-aQ2&amp;t=ffffffffec54f2d7" type="text/javascript"></script>
+<div>
+
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+</div>
+    <center>
+        <div style="border: 1px solid #4A4A4A; background-color: #FFFFFF; width: 1080px;
+            padding: 0px; margin: 0px">
+            <table cellpadding="0" cellspacing="0" width="100%" align="center" border="0">
+                <tr>
+                    <td style="height: 150px;background-color:gray; " valign="bottom" align="left" colspan="2">
+                        <img alt="" style="width:1080px;height:150px;" src="opacimages/db1.jpg" />
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td style="background-color: #000000; width: 100px" valign="top" height="100%">
+                        <table cellspacing="0" cellpadding="0" width="100px" border="0">
+                            <tr>
+                                <td valign="top" align="left" width="100px">
+                                    <a id="link0_left" href="Login.aspx">
+                                        <img alt="home" src="opacimages/lnk1.gif" width="100px" height="24px" style="border: 0;"
+                                            onmouseover="this.src='opacimages/lnk10.gif';" onmouseout="this.src='opacimages/lnk1.gif';" /></a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td valign="top" align="left" width="100px">
+                                    <a id="link1_left" href="gensearch.aspx">
+                                        <img alt="OPAC Search" src="opacimages/lnk2.gif" width="100px" height="24px" style="border: 0;"
+                                            onmouseover="this.src='opacimages/lnk20.gif';" onmouseout="this.src='opacimages/lnk2.gif';" /></a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td valign="top" align="left" width="100px">
+                                    <a id="link2_left" href="facilities.aspx">
+                                        <img id="imglink2_left" alt="Facilities" src="opacimages/lnk3.gif" width="100px"
+                                            style="border: 0;" onmouseover="this.src='opacimages/lnk30.gif';" onmouseout="this.src='opacimages/lnk3.gif';" /></a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td valign="top" align="left" width="100px">
+                                    <a id="link3_left" href="Timings.aspx">
+                                        <img alt="Timings" src="opacimages/lnk4.gif" width="100px" height="24px" style="border: 0;"
+                                            onmouseover="this.src='opacimages/lnk40.gif';" onmouseout="this.src='opacimages/lnk4.gif';" /></a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td valign="top" align="left">
+                                    <a id="link4_left" href="Instructions.aspx">
+                                        <img alt="Instructions" src="opacimages/lnk5.gif" width="100px" height="24px" style="border: 0;"
+                                            onmouseover="this.src='opacimages/lnk50.gif';" onmouseout="this.src='opacimages/lnk5.gif';" /></a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td valign="top" align="left">
+                                    <a id="link5_left" href="eJournals.aspx">
+                                        <img alt="E-Journals" src="opacimages/lnk6.gif" width="100px" height="24px" style="border: 0;"
+                                            onmouseover="this.src='opacimages/lnk60.gif';" onmouseout="this.src='opacimages/lnk6.gif';" /></a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td valign="top" align="left">
+                                    <a id="link51_left" href="eaccess.aspx">
+                                        <img alt="E-Acess Rules" src="opacimages/lnk7.gif" width="100px" height="24px" style="border: 0;"
+                                            onmouseover="this.src='opacimages/lnk70.gif';" onmouseout="this.src='opacimages/lnk7.gif';" /></a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td valign="top" align="left">
+                                    <a id="link6_left" href="staff.aspx">
+                                        <img alt="Staff" src="opacimages/lnk8.gif" width="100px" height="24px" style="border: 0;"
+                                            onmouseover="this.src='opacimages/lnk80.gif';" onmouseout="this.src='opacimages/lnk8.gif';" /></a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td valign="top" align="left">
+                                    <a id="link7_left" href="photos.aspx">
+                                        <img alt="Gallery" src="opacimages/lnk9.gif" width="100px" height="24px" style="border: 0;"
+                                            onmouseover="this.src='opacimages/lnk90.gif';" onmouseout="this.src='opacimages/lnk9.gif';" /></a>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td valign="top" style="width: 980px" align="center">
+                        <div style="border: 2px solid #C0C0C0; padding-left: 10px; padding-right: 10px; min-height: 580px;">
+                            <table cellpadding="2" cellspacing="0" width="100%" align="center" border="0">
+                                <tr>
+                                    <td align="left">
+                                        <a href="#ctl00_Menu1_SkipLink"><img alt="Skip Navigation Links" src="/OPAC/WebResource.axd?d=d-KkWjEnMxz5sfCZZmkafL-YPiE8njpxsEOPd81UpqhONVjcWAjgOIXPj6RpJdy7ZsK2jIhV06IWOcmgCde9ueCnaxM1&amp;t=635199218332401351" width="0" height="0" style="border-width:0px;" /></a><table id="ctl00_Menu1" class="mmenu ctl00_Menu1_2" cellpadding="0" cellspacing="0" border="0">
+	<tr>
+		<td><img src="opacimages/Strip4.gif" alt="" /></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_Menu1n0"><table class="smenu ctl00_Menu1_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tr>
+				<td style="white-space:nowrap;"><a class="ctl00_Menu1_1 smenu ctl00_Menu1_3" href="mypage.aspx" style="border-style:none;font-size:1em;">My Page</a></td>
+			</tr>
+		</table></td><td style="width:1px;"></td><td><img src="opacimages/Strip4.gif" alt="" /></td><td style="width:1px;"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_Menu1n1"><table class="smenu ctl00_Menu1_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tr>
+				<td style="white-space:nowrap;"><a class="ctl00_Menu1_1 smenu ctl00_Menu1_3" href="latest.aspx" style="border-style:none;font-size:1em;">New Arrivals</a></td>
+			</tr>
+		</table></td><td style="width:1px;"></td><td><img src="opacimages/Strip4.gif" alt="" /></td><td style="width:1px;"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_Menu1n2"><table class="smenu ctl00_Menu1_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tr>
+				<td style="white-space:nowrap;"><a class="ctl00_Menu1_1 smenu ctl00_Menu1_3" href="Search.aspx" style="border-style:none;font-size:1em;">Advanced Search</a></td>
+			</tr>
+		</table></td><td style="width:1px;"></td><td><img src="opacimages/Strip4.gif" alt="" /></td><td style="width:1px;"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_Menu1n3"><table class="smenu ctl00_Menu1_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tr>
+				<td style="white-space:nowrap;"><a class="ctl00_Menu1_1 smenu ctl00_Menu1_3" href="ndr.aspx" style="border-style:none;font-size:1em;">New Request</a></td>
+			</tr>
+		</table></td><td style="width:1px;"></td><td><img src="opacimages/Strip4.gif" alt="" /></td><td style="width:1px;"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_Menu1n4"><table class="smenu ctl00_Menu1_4 smenuselected ctl00_Menu1_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tr>
+				<td style="white-space:nowrap;"><a class="ctl00_Menu1_1 smenu ctl00_Menu1_3 smenuselected ctl00_Menu1_5" href="myreserves.aspx" style="border-style:none;font-size:1em;">Reservations</a></td>
+			</tr>
+		</table></td><td style="width:1px;"></td><td><img src="opacimages/Strip4.gif" alt="" /></td><td style="width:1px;"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_Menu1n5"><table class="smenu ctl00_Menu1_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tr>
+				<td style="white-space:nowrap;"><a class="ctl00_Menu1_1 smenu ctl00_Menu1_3" href="HistoryRating.aspx" style="border-style:none;font-size:1em;">My Trans History</a></td>
+			</tr>
+		</table></td><td style="width:1px;"></td><td><img src="opacimages/Strip4.gif" alt="" /></td><td style="width:1px;"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_Menu1n6"><table class="smenu ctl00_Menu1_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tr>
+				<td style="white-space:nowrap;"><a class="ctl00_Menu1_1 smenu ctl00_Menu1_3" href="update.aspx" style="border-style:none;font-size:1em;">My Settings</a></td>
+			</tr>
+		</table></td><td style="width:1px;"></td><td><img src="opacimages/Strip4.gif" alt="" /></td><td style="width:1px;"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_Menu1n7"><table class="smenu ctl00_Menu1_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tr>
+				<td style="white-space:nowrap;"><a class="ctl00_Menu1_1 smenu ctl00_Menu1_3" href="logout.aspx" style="border-style:none;font-size:1em;">SignOut</a></td>
+			</tr>
+		</table></td><td style="width:1px;"></td>
+	</tr>
+</table><a id="ctl00_Menu1_SkipLink"></a>
+                                    </td>
+                                    <td style="width: 150px" align="right">
+                                        <span id="ctl00_lblUserName" style="font-size: 8.25pt; font-weight: bold; color: black;
+                                            font-family: Arial, Tahoma;">ADITYA MAHESHWARI  </span>
+                                        &nbsp;
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td colspan="2" align="left">
+                                        
+<script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$BodyContent$ToolkitScriptManager1', document.getElementById('aspnetForm'));
+Sys.WebForms.PageRequestManager.getInstance()._updateControls(['tctl00$BodyContent$UpdatePanel1'], [], [], 90);
+//]]>
+</script>
+
+    <div id="ctl00_BodyContent_UpdatePanel1">
+	
+            <table cellspacing="0" cellpadding="2" style="width: 100%" border="0">
+                <!--  Comman Rows for all pages -->
+                <tr>
+                    <td style="height: 20px" align="left">
+                        <table cellspacing="0" cellpadding="0" border="0" style="width: 800px;">
+                            <tr>
+                                <td style="width: 300px;" align="left" valign="top">
+                                </td>
+                                <td align="left" valign="top">
+                                    
+                                    
+                               <div id="ctl00_BodyContent_UpdateProgress1" style="display:none;">
+		
+                                            <div id="status1" class="progressbar">
+                                                <br />
+                                                &nbsp;&nbsp;<img alt="" src="opacimages/loading.gif" />&nbsp;&nbsp;Process in progress,
+                                                Please wait...
+                                                <br />
+                                                &nbsp;
+                                            </div>
+                                        
+	</div>
+                               
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="left" valign="top">
+                        <!--  Comman Rows for all pages -->
+                        <table cellpadding="0" cellspacing="0" border="0">
+                            <tr>
+                                
+                                <td style="width: 10px;">
+                                    &nbsp;
+                                </td>
+                                <td align="left" valign="top">
+                                    <table cellspacing="0" cellpadding="2" class="childTable1" style="width: 700px;">
+                                        <tr class="childheader1">
+                                            <td>
+                                                My Reservations...
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td align="left" valign="top">
+                                                <div>
+
+	</div>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                                <td style="width: 10px;">
+                                    &nbsp;
+                                </td>
+                            </tr>
+                        </table>
+                        <!-- Comman Rows for all pages -->
+                    </td>
+                </tr>
+            </table>
+        
+</div>
+
+                                    </td>
+                                </tr>
+                            </table>
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-size: 8.25pt; color: black; font-family: Arial, Tahoma; background-image: url('opacimages/footernew.gif');
+                        background-repeat: repeat-x;" valign="middle" align="center" colspan="2" height="20px">
+                        <div style="padding-left: 20px; padding-right: 20px;">
+                            Copyright © 2015 Libsoft. All rights Reserved. Powered by <span style="color: black">
+                                <a style="color: black" href="http://www.environsoftware.com" target="_blank">Environ
+                                    Software (P) Ltd.</a></span>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </center>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+(function() {var fn = function() {$get("ctl00_BodyContent_ToolkitScriptManager1_HiddenField").value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();var ctl00_Menu1_Data = new Object();
+ctl00_Menu1_Data.disappearAfter = 500;
+ctl00_Menu1_Data.horizontalOffset = 0;
+ctl00_Menu1_Data.verticalOffset = 0;
+ctl00_Menu1_Data.staticHoverClass = 'ctl00_Menu1_8 smenuhover';
+ctl00_Menu1_Data.staticHoverHyperLinkClass = 'ctl00_Menu1_7 smenuhover';
+Sys.Application.initialize();
+Sys.Application.add_init(function() {
+    $create(Sys.UI._UpdateProgress, {"associatedUpdatePanelId":"ctl00_BodyContent_UpdatePanel1","displayAfter":500,"dynamicLayout":true}, null, null, $get("ctl00_BodyContent_UpdateProgress1"));
+});
+//]]>
+</script>
+</form>
+</body>
+</html>
